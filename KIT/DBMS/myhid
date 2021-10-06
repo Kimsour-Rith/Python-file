@@ -1,0 +1,19 @@
+ id | cus_name | email 
+----+----------+-------
+(0 rows)
+
+ id |    name    | age | start_date |     position      |  salary   |        email         
+----+------------+-----+------------+-------------------+-----------+----------------------
+  1 | Kimsour    |  19 | 2001-05-25 | Manager           | $1,000.00 | kimsour@gmail.com
+  2 | Lisa       |  25 | 2001-05-27 | Manager           | $1,000.00 | lisa@gmail.com
+  3 | Mr.Chen    |  50 | 2000-05-07 | Director          | $1,500.00 | chen@gmail.com
+  4 | Mr.Sem     |  40 | 2011-05-07 | Director          | $1,500.00 | sem@gmail.com
+  5 | Otto       |  83 | 2020-06-08 | CEO               |   $800.00 | otto@gmail.com
+  6 | Lynde      |  23 | 2020-09-03 | Software Engineer |   $900.00 | lynde@gmail.com
+  7 | Claiborne  |  61 | 2021-02-17 | IT Support        | $2,000.00 | claiborne@gmail.com
+  9 | Barnabe    |  23 | 2021-01-27 | Sail              |   $500.00 | Barnabe@gmail.com
+ 10 | Hailee     |  99 | 2021-03-09 | Marketing         |   $850.00 | Hailee@gmail.com
+ 11 | Kendall    |  11 | 2020-10-19 | Cleaner           |   $250.00 | Kendall@gmail.com
+  8 | Antoinette |  25 | 2021-05-03 | Accounting        |   $700.00 | antoinette@gmail.com
+(11 rows)
+

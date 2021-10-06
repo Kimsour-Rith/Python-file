@@ -1,0 +1,42 @@
+INSERT 0 1
+ id | first_name |  last_name   |            email            |   gender   
+----+------------+--------------+-----------------------------+------------
+  1 | Stoddard   | Coultous     | scoultous0@pinterest.com    | Polygender
+  2 | Lyndel     | O' Concannon | loconcannon1@cornell.edu    | Female
+  3 | Henriette  | McGillecole  | hmcgillecole2@angelfire.com | Female
+  4 | Kelly      | Bougen       | kbougen3@blogs.com          | Polygender
+  5 | Pernell    | Bradie       | pbradie4@redcross.org       | Bigender
+  6 | Neille     | Elfleet      | nelfleet5@tmall.com         | Agender
+  8 | Husain     | Kick         | hkick7@discovery.com        | Female
+  9 | Borden     | Grimolbie    | bgrimolbie8@quantcast.com   | Female
+ 10 | Gloriana   | Strauss      | gstrauss9@icio.us           | Bigender
+ 12 | Kimsour    | Rith         |  kimsourrith@gmail.com      | Female
+(10 rows)
+
+DELETE 1
+ id | first_name |  last_name   |            email            |   gender   
+----+------------+--------------+-----------------------------+------------
+  2 | Lyndel     | O' Concannon | loconcannon1@cornell.edu    | Female
+  3 | Henriette  | McGillecole  | hmcgillecole2@angelfire.com | Female
+  4 | Kelly      | Bougen       | kbougen3@blogs.com          | Polygender
+  5 | Pernell    | Bradie       | pbradie4@redcross.org       | Bigender
+  6 | Neille     | Elfleet      | nelfleet5@tmall.com         | Agender
+  8 | Husain     | Kick         | hkick7@discovery.com        | Female
+  9 | Borden     | Grimolbie    | bgrimolbie8@quantcast.com   | Female
+ 10 | Gloriana   | Strauss      | gstrauss9@icio.us           | Bigender
+ 12 | Kimsour    | Rith         |  kimsourrith@gmail.com      | Female
+(9 rows)
+
+ id | first_name |  last_name   |            email            |   gender   
+----+------------+--------------+-----------------------------+------------
+  2 | Lyndel     | O' Concannon | loconcannon1@cornell.edu    | Female
+  3 | Henriette  | McGillecole  | hmcgillecole2@angelfire.com | Female
+  4 | Kelly      | Bougen       | kbougen3@blogs.com          | Polygender
+  5 | Pernell    | Bradie       | pbradie4@redcross.org       | Bigender
+  6 | Neille     | Elfleet      | nelfleet5@tmall.com         | Agender
+  8 | Husain     | Kick         | hkick7@discovery.com        | Female
+  9 | Borden     | Grimolbie    | bgrimolbie8@quantcast.com   | Female
+ 10 | Gloriana   | Strauss      | gstrauss9@icio.us           | Bigender
+ 12 | Kimsour    | Rith         |  kimsourrith@gmail.com      | Female
+(9 rows)
+

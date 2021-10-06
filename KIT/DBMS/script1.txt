@@ -1,0 +1,2 @@
+INSERT INTO customers VALUES (1, 'Jongkook', 'jonkook@gamil.com');
+INSERT INTO customers VALUES (2, 'Lisa', 'Lisa@gamil.com');

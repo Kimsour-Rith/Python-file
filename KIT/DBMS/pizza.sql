@@ -1,0 +1,10 @@
+insert into pizza (id, emp_name, age, email, salary) values (1, 'Cornie', 72, 'cscotson0@t-online.de', '$6998.49');
+insert into pizza (id, emp_name, age, email, salary) values (2, 'Raddie', 23, 'rsandaver1@wisc.edu', '$3550.60');
+insert into pizza (id, emp_name, age, email, salary) values (3, 'Auberon', 12, 'araulston2@skype.com', '$8768.54');
+insert into pizza (id, emp_name, age, email, salary) values (4, 'Lew', 97, 'lnutton3@columbia.edu', '$8582.73');
+insert into pizza (id, emp_name, age, email, salary) values (5, 'Raviv', 90, 'rsandal4@slate.com', '$7385.56');
+insert into pizza (id, emp_name, age, email, salary) values (6, 'Tilda', 47, 'tveschambes5@amazon.com', '$4890.57');
+insert into pizza (id, emp_name, age, email, salary) values (7, 'Florentia', 99, 'ffulop6@ebay.co.uk', '$9002.87');
+insert into pizza (id, emp_name, age, email, salary) values (8, 'Ward', 19, 'wwinkworth7@gmpg.org', '$7121.09');
+insert into pizza (id, emp_name, age, email, salary) values (9, 'Saba', 3, 'smitchinson8@cargocollective.com', '$4796.68');
+insert into pizza (id, emp_name, age, email, salary) values (10, 'Dominik', 79, 'dwestcott9@ihg.com', '$9166.88');

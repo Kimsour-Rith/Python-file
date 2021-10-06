@@ -1,0 +1,16 @@
+INSERT INTO admin (id,name,designation) VALUES(34, 'Kimsour', 'CEO');
+insert into admin (id, name, designation) values (1, 'Leeanne', 'Spurdle');
+insert into admin (id, name, designation) values (2, 'Isabel', 'Cresswell');
+insert into admin (id, name, designation) values (3, 'Antonella', 'Fischer');
+insert into admin (id, name, designation) values (4, 'Lydie', 'Flarity');
+insert into admin (id, name, designation) values (5, 'Nicko', 'Leman');
+insert into admin (id, name, designation) values (6, 'Silvio', 'Winspare');
+insert into admin (id, name, designation) values (7, 'Vin', 'Farrant');
+insert into admin (id, name, designation) values (8, 'Baillie', 'Bentinck');
+insert into admin (id, name, designation) values (9, 'Mirelle', 'Tout');
+insert into admin (id, name, designation) values (10, 'Michell', 'Grote');
+insert into admin (id, name, designation) values (11, 'Sisile', 'Gatfield');
+insert into admin (id, name, designation) values (12, 'Ogdan', 'Dewsnap');
+insert into admin (id, name, designation) values (13, 'Lusa', 'Jarrell');
+insert into admin (id, name, designation) values (14, 'Hugues', 'O''Corhane');
+insert into admin (id, name, designation) values (15, 'Tye', 'Killoran');
